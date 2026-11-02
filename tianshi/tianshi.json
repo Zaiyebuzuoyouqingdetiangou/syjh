@@ -4,7 +4,7 @@
   "name": "天时",
   "id": "tianshi-script",
   "content": "import 'https://testingcf.jsdelivr.net/gh/Zaiyebuzuoyouqingdetiangou/syjh/tianshi/tianshi.js';",
-  "info": "天时 1.2.1：聊天跟着剧情里的时辰、天气、节日节气、地方、月亮变。古代卡、现代卡、日式卡都能用。",
+  "info": "天时 1.3.0：聊天跟着剧情里的时辰、天气、节日节气、地方、月亮变。古代卡、现代卡、日式卡都能用。",
   "button": {
     "enabled": true,
     "buttons": [
